@@ -1094,7 +1094,7 @@
 				INFOPLIST_FILE = DireFloof/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.keyboardfloofs.amarok;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.perfectly-cooked.amarok";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Adhoc;
@@ -1224,7 +1224,7 @@
 				INFOPLIST_FILE = DireFloof/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.keyboardfloofs.amarok;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.perfectly-cooked.amarok";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -1239,7 +1239,7 @@
 				INFOPLIST_FILE = DireFloof/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.keyboardfloofs.amarok;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.perfectly-cooked.amarok";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
